@@ -2,14 +2,17 @@
 
 #
 
-# This project uses EXPRESS EJS templating and LODASH dependencies. you will need to install them in order to use this project.
+# This project uses EXPRESS, MONGOOSE, EJS, and LODASH modules. you will need to install them in order to use this project.
 
-#
+# New version merged, also will need to have mongodb installed
+
+# Stored data in mongoDB using MONGOOSE. (local port)
 
 # Runs a local server on port 3000
 
+
 # /compose route to write posts.
 
-# Each post title becomes a route to read the whole post.
+# /posts/:postID to query single post.
 
 # Enjoy!
